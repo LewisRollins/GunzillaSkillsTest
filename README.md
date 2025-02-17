@@ -15,6 +15,7 @@ This project is a **2v2 capture point-based shooter** with three combat abilitie
   - Uses **delta time** for frame rate independence.
   - **Tick functions** handle:
     - Ground detection (trace-based).
+    - Wall detection (trace-based).
     - Gravity application.
     - Grapple physics calculations.
     - Updating the server position.
