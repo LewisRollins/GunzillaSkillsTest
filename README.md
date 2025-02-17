@@ -131,3 +131,15 @@ This project is a **2v2 capture point-based shooter** with three combat abilitie
 ## **Final Thoughts**
 This project is a **fully functional multiplayer shooter** with a structured and modular system for **abilities, movement, and combat mechanics**. Further polish on FX and sounds will enhance the experience, but the foundation is solid.
 
+## Controls and Instuctions
+- **W/A/S/D** – Move
+- **Space** – Jump
+- **E** – Toggle Shield (**F** keeps it active for testing)
+- **Q** – Grapple
+- **Left Shift** – Dash
+- **Left Mouse Button** – Primary Attack (Projectile)
+- **Right Mouse Button** – Secondary Attack (Laser) 
+
+Set **Net Mode** to play as client and **Number of Players** to **1-4**. 
+Try capture the point and enjoy the combat! First to **100%** wins and a new game will begin.
+
