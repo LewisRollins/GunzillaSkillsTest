@@ -117,10 +117,11 @@ This project is a **2v2 capture point-based shooter** with three combat abilitie
 
 ## **To-Do / Future Improvements**
 - **Improve Grappling Hook:** Currently left as-is.
+- **Improve Wall Detection:** Add logic to slide charcter along walls.
 - **Better Visual Effects:** Placeholder FX for now, needs polishing.
 - **Sound Design:** Add sound cues for each action.
 - **Map Layout Adjustments:** Balance testing needed.
-- **Add UI Widgets** Currently only in world text renders are used. Add UI elements and use repnotify to update.
+- **Add UI Widgets:** Currently only in world text renders are used. Add UI elements and use repnotify to update.
 
 ---
 ### **📌 Notes:**
